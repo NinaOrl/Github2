@@ -1,0 +1,10 @@
+Checklist structure:
+
+Test name
+Date
+Build
+Tester
+Environment
+Steps
+Result: Passed/Failed
+Comments
